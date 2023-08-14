@@ -1,3 +1,0 @@
-Name: Kamalanathan T N
-Skills: HTML, CSS, JS, REACT JS
-Email: tnk6195@gmail.com
